@@ -10,7 +10,7 @@
 * Large HEPA filter seal for rough cut material
 
 
-<img src="front-side.jpg" >
+<img src="front_side.jpg" >
 
 <b>DISCLAIMER</b>
 
