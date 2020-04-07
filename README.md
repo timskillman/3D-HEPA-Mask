@@ -10,7 +10,7 @@
 * Large HEPA filter seal for rough cut material
 
 
-
+![alt text](https://github.com/timskillman3D-HEPA-Mask/blob/master/front-side.jpg)
 
 <b>DISCLAIMER</b>
 
